@@ -1,5 +1,6 @@
 var extra_open_days = [
   ['2013-06-03', 'sidste dag i 4. kvarter'],
+  ['2013-10-10', 'fredag (efter IFAs skovtur)'],
   ['2013-12-18', 'sidste dag i 2. kvarter'],
   ['2014-04-15', 'sidste dag før påskeferien'],
   ['2014-05-15', 'dagen før Store Bededag'],

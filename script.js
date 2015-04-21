@@ -12,7 +12,7 @@ var extra_open_days = [
   ['2015-05-13', 'dagen før Kristi Himmelfartsdag'],
   ['2015-06-01', 'sidste dag i 4. kvarter'],
   ['2015-12-16', 'sidste dag i 2. kvarter'],
-  ['2015-04-21', 'dagen før Store Bededag'],
+  ['2016-04-21', 'dagen før Store Bededag'],
   ['2016-05-04', 'dagen før Kristi Himmelfartsdag'],
   ['2016-05-30', 'sidste dag i 4. kvarter']
 ];

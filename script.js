@@ -45,7 +45,7 @@ function insert_primary_answer() {
   if (statement) {
     primary.innerHTML = "Ja, det er " + statement + "!";
     primary.className = "positive";
-    secondary.innerHTML = "Tag et smut forbi FFB på syvende og få dig en LFP."
+    secondary.innerHTML = "Tag et smut forbi FFB på førsteårsgangen og få dig en LFP."
   } else {
     primary.innerHTML = "Nej, desværre."
     primary.className = "negative";

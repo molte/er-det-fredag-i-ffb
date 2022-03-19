@@ -1,11 +1,6 @@
 var extra_open_days = [
-  ['2016-04-21', 'dagen før Store Bededag'],
-  ['2016-05-04', 'dagen før Kristi Himmelfartsdag'],
-  ['2016-05-30', 'sidste dag i 4. kvarter'],
-  ['2016-12-21', 'sidste dag i 2. kvarter'],
-  ['2017-04-11', 'dagen før dagen før Skærtorsdag'],
-  ['2017-05-11', 'dagen før Store Bededag'],
-  ['2017-05-24', 'dagen før Kristi Himmelfartsdag']
+  ['2022-04-13', 'dagen før Skærtorsdag'],
+  ['2022-05-25', 'dagen før Kristi Himmelfartsdag']
 ];
 var extra_open_days_amount = extra_open_days.length;
 
